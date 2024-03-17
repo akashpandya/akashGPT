@@ -10,3 +10,6 @@ HTML/CSS
 Chat interface mimicking ChatGPT's conversational style
 Seamless integration with OpenAI's API
 User-friendly interface for smooth interaction
+
+
+![akashgpt](https://github.com/akashpandya/akashGPT/assets/91130000/b4197023-a2f7-4947-84c8-b5f1ea9789bb)
